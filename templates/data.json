@@ -281,7 +281,7 @@
 },
  "estados": {
  "name": "estados.png",
- "x": 2132,
+ "x": 2130,
  "y": 2979,
  "width": 400,
  "height": 83
@@ -338,7 +338,7 @@
  "obs": {
  "name": "obs.png",
  "x": 1848,
- "y": 3048,
+ "y": 3084,
  "width": 301,
  "height": 557
 },
