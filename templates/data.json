@@ -348,5 +348,26 @@
  "y": 2636,
  "width": 57,
  "height": 105
+},
+ "arfr": {
+ "name": "arfr.png",
+ "x": 1212,
+ "y": -723,
+ "width": 172,
+ "height": 104
+},
+ "discord2": {
+ "name": "discord2.png",
+ "x": 1934,
+ "y": 2989,
+ "width": 59,
+ "height": 141
+},
+ "puapua": {
+ "name": "puapua.png",
+ "x": 3033,
+ "y": 3027,
+ "width": 150,
+ "height": 150
 }
 }
