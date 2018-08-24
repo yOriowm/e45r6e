@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         ♛ 𝑩𝑹𝑨𝑺𝑰𝑳-𝒁𝑶𝑵𝑬 ♛ 𝑴𝑰𝑵𝑰𝑴𝑨𝑷𝑨 ♛
+// @name         OrionMinimap
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  ♛ 𝑩𝑹𝑨𝑺𝑰𝑳-𝒁𝑶𝑵𝑬 ♛ 𝑴𝑰𝑵𝑰𝑴𝑨𝑷𝑨 ♛
-// @author       z0mb
+// @description  OrionMinimap
+// @author       yOriowm#1046
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://discord.io/brasil-zone
-// @updateURL    https://raw.githubusercontent.com/zZz0mb/BRASIL-ZONE-MINIMAPA/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/zZz0mb/BRASIL-ZONE-MINIMAPA/blob/master/minimap.user.js
+// @homepage     Discord: yOriowm#1046
+// @updateURL    https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zZz0mb/BRASIL-ZONE-MINIMAPA/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/yOriowm/OrionMinimap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates from cursor
