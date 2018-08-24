@@ -1,16 +1,16 @@
 {
   "Orion_Avatar": {
-    "name": "Espada.png",
-    "x": 1125,
-    "y": 3935,
-    "width": 268,
-    "height": 87
+    "name": "avatardiscord_zone.png",
+    "x": 1869,
+    "y": 2648,
+    "width": 75,
+    "height": 75
    },
-  "ODNLogo": {
-    "name": "ODNLogo.png",
-    "x": 1978,
-    "y": 3912,
-    "width": 117,
-    "height": 113
-   },
+  "ContryB_Imp": {
+    "name": "ContryB_Imp.png",
+    "x": 2171,
+    "y": 2687,
+    "width": 252,
+    "height": 263
+   }
 }
