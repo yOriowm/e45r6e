@@ -50,23 +50,23 @@ window.addEventListener('load', function () {
     //Cachebreaker to force refresh
     cachebreaker = null;
 
-	vers = "♛ 𝑩𝑹𝑨𝑺𝑰𝑳-𝒁𝑶𝑵𝑬 ♛ 𝑴𝑰𝑵𝑰𝑴𝑨𝑷𝑨 ♛";
+	vers = "OrionMinimap";
 
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
     div.innerHTML = '<div id="minimapbg" style="position: absolute; right: 0.6em; bottom: 0.6em; z-index: 2;">' +
-        '<div class="posy" id="posyt" style="background-size: 100%; background-image: url(https://i.imgur.com/2qu5Wch.png); color: rgb(255, 255, 255); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 12px; padding: 10px;">' +
+        '<div class="posy" id="posyt" style="background-size: 100%; background-image: url(https://imgur.com/a/yWYBVsL); color: rgb(255, 255, 255); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 12px; padding: 10px;">' +
         '<div id="minimap-text" style="display: none;"></div>' +
         '<div id="minimap-box" style="position: relative;width:400px;height:300px">' +
         '<canvas id="minimap" style="width: 100%; height: 100%;z-index:1;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-board" style="width: 100%; height: 100%;z-index:2;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-cursor" style="width: 100%; height: 100%;z-index:3;position:absolute;top:0;left:0;"></canvas>' +
         '</div><div id="minimap-config" style="line-height:20px;">' +
-        '<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"> <i class="em em-flag-br"></i> | <span id="hide-map" style="cursor:pointer;color:white">𝑴𝒊𝒏𝒊𝒎𝒊𝒛𝒂𝒓' +
-        '</span> | <span id="follow-mouse" style="cursor:pointer;">𝑺𝒆𝒈𝒖𝒊𝒓 𝒐 𝒎𝒐𝒖𝒔𝒆' +
-        '</span> | 𝒁𝒐𝒐𝒎: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">▲</span>' +
+        '<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"> <span id="hide-map" style="cursor:pointer;color:white">Minimizar' +
+        '</span> | <span id="follow-mouse" style="cursor:pointer;">Seguir o mouse' +
+        '</span> | Zoom: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">▲</span>' +
         '<span id="zoom-minus" style="cursor:pointer;font-weight:bold;">▼</span>' +
-        ' | <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"> <i class="em em-flag-br"></i><br />' + vers +
+        ' | <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"> </i><br />' + vers +
         '</div>' +
         '</div>';
     document.body.appendChild(div);
@@ -98,7 +98,7 @@ window.addEventListener('load', function () {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "𝑬𝒙𝒑𝒂𝒏𝒅𝒊𝒓 𝒎𝒂𝒑𝒂";
+        document.getElementById("minimap-text").innerHTML = "Expandir Mapa";
         document.getElementById("minimap-text").style.cursor = "pointer";
     };
     document.getElementById("minimap-text").onclick = function () {
@@ -130,13 +130,13 @@ window.addEventListener('load', function () {
     document.getElementById("follow-mouse").onclick = function () {
         toggle_follow = !toggle_follow;
         if (toggle_follow) {
-            this.innerHTML = "𝑺𝒆𝒈𝒖𝒊𝒓 𝒂 𝒕𝒆𝒍𝒂";
+            this.innerHTML = "Seguir a tela";
             loadTemplates();
             x_window = x;
             y_window = y;
             drawCursor();
         } else {
-            this.innerHTML = "𝑺𝒆𝒈𝒖𝒊𝒓 𝒐 𝒎𝒐𝒖𝒔𝒆";
+            this.innerHTML = "Seguir o mouse";
             getCenter();
         }
     };
@@ -209,7 +209,7 @@ function toggleShow() {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "𝑬𝒙𝒑𝒂𝒏𝒅𝒊𝒓 𝒎𝒂𝒑𝒂";
+        document.getElementById("minimap-text").innerHTML = "Expandir Mapa";
         document.getElementById("minimapbg").onclick = function () {
             toggleShow()
         };
@@ -284,7 +284,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "𝑵𝒂̃𝒐 𝒉𝒂́ 𝒕𝒆𝒎𝒑𝒍𝒂𝒕𝒆𝒔 𝒂𝒒𝒖𝒊";
+            document.getElementById("minimap-text").innerHTML = "Não há templates aqui";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
