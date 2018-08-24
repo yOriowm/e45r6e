@@ -362,5 +362,19 @@
  "y": 2989,
  "width": 59,
  "height": 141
+ },
+ "brasaofebpreto-1": {
+ "name": "brasaofebpreto-1.png",
+ "x": 877,
+ "y": 2468,
+ "width": 50,
+ "height": 72
+ },
+ "voidzilbrasao": {
+ "name": "voidzilbrasao.png",
+ "x": 688,
+ "y": 2285,
+ "width": 139,
+ "height": 198
  }
 }
