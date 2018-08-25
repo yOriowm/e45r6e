@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         OrionMinimap
-// @namespace    http://tampermonkey.net/
+// @name         SpaceCanvas Minimap
+// @namespace    SpaceCanvas Minimap
 // @version      1.0
-// @description  OrionMinimap
+// @description  Minimap Oficial SpaceCanvas
 // @author       yOriowm#1046
-// @match        https://pixelzone.io/*
-// @match        http://pixelzone.io/*
-// @homepage     Discord: yOriowm#1046
-// @updateURL    https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
+// @match        https://pixelcanvas.io/*
+// @match        http://pixelcanvas.io/*
+// @homepage     https://github.com/yOriowm/SpaceCanas-Minimap
+// @updateURL    https://raw.githubusercontent.com/yOriowm/SpaceCanas-Minimap/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yOriowm/SpaceCanas-Minimap/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
