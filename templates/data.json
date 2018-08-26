@@ -19,5 +19,12 @@
     "y": 3105,
     "width": 1943,
     "height": 991
+   },
+  "MapaMundi": {
+    "name": "MapaMundi.png",
+    "x": 3549,
+    "y": 1100,
+    "width": 1357,
+    "height": 628
    }
 }
