@@ -26,5 +26,12 @@
     "y": 1056,
     "width": 1357,
     "height": 628
+   },
+  "trio": {
+    "name": "trio.png",
+    "x": 2171,
+    "y": 2687,
+    "width": 583,
+    "height": 252
    }
 }
