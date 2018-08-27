@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         SpaceCanvas Minimap
-// @namespace    SpaceCanvas Minimap
+// @name         yOriowm Minimap
+// @namespace    yOriowm Minimap
 // @version      1.0
-// @description  Minimap Oficial SpaceCanvas
+// @description  yOriowm Minimap
 // @author       yOriowm#1046
-// @match        https://pixelcanvas.io/*
+// @match        https://pixelzone.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/yOriowm/SpaceCanas-Minimap
-// @updateURL    https://raw.githubusercontent.com/yOriowm/SpaceCanas-Minimap/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/yOriowm/SpaceCanas-Minimap/blob/master/minimap.user.js
+// @homepage     https://github.com/yOriowm/OrionMinimap
+// @updateURL    https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
