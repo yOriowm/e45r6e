@@ -5,7 +5,7 @@
 // @description  yOriowm Minimap
 // @author       yOriowm#1046
 // @match        https://pixelzone.io/*
-// @match        http://pixelcanvas.io/*
+// @match        http://pixelzone.io/*
 // @homepage     https://github.com/yOriowm/OrionMinimap
 // @updateURL    https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/yOriowm/OrionMinimap/blob/master/minimap.user.js
