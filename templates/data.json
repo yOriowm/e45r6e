@@ -33,5 +33,12 @@
     "y": 2687,
     "width": 584,
     "height": 252
+     },
+  "Green": {
+    "name": "green.png",
+    "x": 941,
+    "y": -871,
+    "width": 233,
+    "height": 155
    }
 }
