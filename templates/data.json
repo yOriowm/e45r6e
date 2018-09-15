@@ -47,5 +47,19 @@
     "y": 777,
     "width": 190,
     "height": 107
+        },
+  "antturcos": {
+    "name": "antturcos.png",
+    "x": 1212,
+    "y": -723,
+    "width": 173,
+    "height": 104
+      },
+  "marx": {
+    "name": "marx.png",
+    "x": 1028,
+    "y": -1088,
+    "width": 201,
+    "height": 143
    }
 }
