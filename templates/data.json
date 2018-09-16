@@ -61,5 +61,12 @@
     "y": -1088,
     "width": 201,
     "height": 143
+        },
+  "antorange": {
+    "name": "antorange.png",
+    "x": 1354,
+    "y": -28,
+    "width": 368,
+    "height": 214
    }
 }
