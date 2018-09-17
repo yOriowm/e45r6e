@@ -68,5 +68,12 @@
     "y": -28,
     "width": 368,
     "height": 214
+          },
+  "antturcos2": {
+    "name": "antturcos2.png",
+    "x": 2328,
+    "y": -1238,
+    "width": 345,
+    "height": 244
    }
 }
