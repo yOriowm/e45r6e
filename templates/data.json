@@ -75,5 +75,19 @@
     "y": -1238,
     "width": 345,
     "height": 244
+         },
+  "flazone2": {
+    "name": "flazone2.png",
+    "x": 2041,
+    "y": 2475,
+    "width": 54,
+    "height": 62
+         },
+  "flazone3": {
+    "name": "flazone3.png",
+    "x": 2205,
+    "y": 2438,
+    "width": 188,
+    "height": 99
    }
 }
