@@ -96,5 +96,12 @@
     "y": 2293,
     "width": 299,
     "height": 145
+           },
+  "flazone1": {
+    "name": "flazone1.png",
+    "x": -409,
+    "y": 707,
+    "width": 267,
+    "height": 293
    }
 }
