@@ -110,5 +110,12 @@
     "y": 2436,
     "width": 108,
     "height": 124
+               },
+  "flazone_camisas2": {
+    "name": "flazone_camisas2.png",
+    "x": 1938,
+    "y": 2266,
+    "width": 268,
+    "height": 100
    }
 }
