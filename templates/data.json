@@ -117,5 +117,12 @@
     "y": 2266,
     "width": 268,
     "height": 100
+                 },
+  "ancapzone": {
+    "name": "ancapzone.png",
+    "x": -5,
+    "y": -1385,
+    "width": 2048,
+    "height": 1033
    }
 }
