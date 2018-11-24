@@ -118,11 +118,11 @@
     "width": 268,
     "height": 100
                  },
-  "ancapzone2": {
-    "name": "ancapzone2.png",
-    "x": -1367,
+  "ancapzone": {
+    "name": "ancapzone.png",
+    "x": -119,
     "y": -1853,
-    "width": 1410,
-    "height": 749
+    "width": 800,
+    "height": 404
    }
 }
