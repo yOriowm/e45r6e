@@ -20,13 +20,6 @@
     "width": 1943,
     "height": 991
    },
-  "MapaMundi": {
-    "name": "MapaMundi.png",
-    "x": -4054,
-    "y": 1056,
-    "width": 1357,
-    "height": 628
-   },
   "Trio": {
     "name": "Trio.png",
     "x": 2171,
@@ -34,48 +27,6 @@
     "width": 584,
     "height": 252
      },
-  "Green": {
-    "name": "green.png",
-    "x": 941,
-    "y": -871,
-    "width": 233,
-    "height": 155
-       },
-  "poraetflagpato": {
-    "name": "poraetflagpato.png",
-    "x": 1323,
-    "y": 777,
-    "width": 190,
-    "height": 107
-        },
-  "antturcos": {
-    "name": "antturcos.png",
-    "x": 1212,
-    "y": -723,
-    "width": 173,
-    "height": 104
-      },
-  "marx": {
-    "name": "marx.png",
-    "x": 1028,
-    "y": -1088,
-    "width": 201,
-    "height": 143
-        },
-  "antorange": {
-    "name": "antorange.png",
-    "x": 1354,
-    "y": -28,
-    "width": 368,
-    "height": 214
-          },
-  "antturcos2": {
-    "name": "antturcos2.png",
-    "x": 2328,
-    "y": -1238,
-    "width": 345,
-    "height": 244
-         },
   "flamain": {
     "name": "flamain.png",
     "x": 2027,
