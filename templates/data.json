@@ -89,5 +89,12 @@
     "y": 2636,
     "width": 197,
     "height": 188
+                       },
+  "PoliciaS": {
+    "name": "PoliciaS.png",
+    "x": 3637,
+    "y": 2057,
+    "width": 128,
+    "height": 128
    }
 }
