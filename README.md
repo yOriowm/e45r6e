@@ -1,3 +1,1 @@
-# OrionMinimap
-
-Credits ODN
+...
